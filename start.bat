@@ -1,5 +1,5 @@
 @echo off
-title Reload Backend
+title stealth Backend
 
 :start
 node index.js
