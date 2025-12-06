@@ -58,11 +58,6 @@ Created by [Burlone](https://github.com/burlone0), This is a modded backend, all
 * HTTPS/SSL Support:
     * [x] A working https/ssl system.
 
-## TO-DO
-- [ ] Differentiate ports between xmpp and matchmaker
-- [ ] Create a support with save the world
-- [ ] Create a support with creative
-
 ## License
 This **project/backend** is licensed under the **BSD 3-Clause License.**
 
